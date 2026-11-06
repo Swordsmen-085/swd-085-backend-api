@@ -8,14 +8,14 @@ First off, thank you for considering contributing to the Swordsmen Virtual Squad
 - **No toxicity or elitism.** We value humility and continuous learning.
 
 ## 🛡️ Branch Protection & Workflow
-**The `main` branch is protected.** Direct pushes to `main` are strictly forbidden. 
+**The `master` branch is protected.** Direct pushes to `master` are strictly forbidden. 
 
 All work must follow this Pull Request (PR) workflow:
 1. **Pick an Issue:** Go to the "Issues" tab and assign yourself a task that matches your skills.
-2. **Create a Branch:** Create a new branch from `main` using our naming convention (see below).
+2. **Create a Branch:** Create a new branch from `master` using our naming convention (see below).
 3. **Develop:** Write your code, commit your changes using standard conventions.
 4. **Push:** Push your branch to GitHub.
-5. **Open a PR:** Create a Pull Request against `main`. 
+5. **Open a PR:** Create a Pull Request against `master`. 
 6. **Review:** A project leader (Cami) or a designated reviewer must approve your PR.
 7. **Merge:** Once approved and tests pass, the PR will be merged.
 
